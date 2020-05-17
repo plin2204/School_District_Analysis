@@ -1,6 +1,7 @@
 # School_District_Analysis
-Use Python and Pandas library to analyze school district data and trends in school performance
+Use **Python** and **Pandas** library to analyze school district data and trends in school performance
 
+## Steps
 1.	Create the district and school summary DataFrames.
 2.	Calculate the top 5 and bottom 5 performing schools.
 3.	Calculate the average math and reading score for students in each grade level at each school.
@@ -8,10 +9,10 @@ Use Python and Pandas library to analyze school district data and trends in scho
 6.	Calculate the school performance based on the size of the school.
 7.	Calculate the school performance based on the type of school.
 
-## Challenge Overview
+## Overview
 Replace the reading and math scores for ninth graders at Thomas High School with NaN. 
 
-## Challenge Summary
+## Summary
 1.	How is the district summary affected?
 
     The Average math and reading scores are similar; the score becomes a bit lower from 79.0 to 78.8 for math and stays the same at 81.9 for reading. The percetages all go down for passing math from 75 to 74, passing reading from 86 to 85, and overall passing from 65 to 64.
