@@ -13,6 +13,9 @@ Use **Python** and **Pandas** library to analyze school district data and trends
 Replace the reading and math scores for ninth graders at Thomas High School with NaN. 
 
 ## Summary
+---
+The code is in [PyCitySchools_Challenge.ipynb](https://github.com/plin2204/School_District_Analysis/blob/master/PyCitySchools_Challenge.ipynb).
+---
 1.	How is the district summary affected?
 
     The Average math and reading scores are similar; the score becomes a bit lower from 79.0 to 78.8 for math and stays the same at 81.9 for reading. The percetages all go down for passing math from 75 to 74, passing reading from 86 to 85, and overall passing from 65 to 64.
